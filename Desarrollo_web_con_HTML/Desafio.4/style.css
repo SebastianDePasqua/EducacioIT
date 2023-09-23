@@ -1,44 +1,43 @@
-@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;700;900&display=swap');
-body{
-    margin: 0;
-    font-family: 'Source Sans 3', sans-serif;
-    display: flex;
-    justify-content: center;
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;700;900&display=swap");
+body {
+  margin: 0;
+  font-family: "Source Sans 3", sans-serif;
+  display: flex;
+  justify-content: center;
 }
-section{
-    border: solid 1px #D6DDFE;
-    width: 100vh;
-    text-align: center;
-    box-sizing: border-box;
+section {
+  border: solid 1px #d6ddfe;
+  width: 100vh;
+  text-align: center;
+  box-sizing: border-box;
 }
-h2{
-    margin: 0;
-    font-size: 38px;
-    font-weight: 400;
-    color: #ffffff;
-    background-color: #04146c;
+h2 {
+  margin: 0;
+  font-size: 38px;
+  font-weight: 400;
+  color: #ffffff;
+  background-color: #04146c;
 }
-h1{
-    font-size: 88px;
-    font-weight: 900;
-    color: #04146c;
-
+h1 {
+  font-size: 88px;
+  font-weight: 900;
+  color: #04146c;
 }
-h3{
-    font-size: 26px;
-    font-weight: 400;
-    color: #04146c;
+h3 {
+  font-size: 26px;
+  font-weight: 400;
+  color: #04146c;
 }
-span{
-    font-weight: 700;
+span {
+  font-weight: 700;
 }
-img{
-    width: 67vh;
-    border: solid 1px black;
+img {
+  width: 67vh;
+  border: solid 1px black;
 }
-p{
-    font-size: 24px;
-    font-weight: 400;
-    color: #04146c;
-    background-color: #edf7ff;
+p {
+  font-size: 24px;
+  font-weight: 400;
+  color: #04146c;
+  background-color: #edf7ff;
 }
