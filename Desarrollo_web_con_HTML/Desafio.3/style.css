@@ -3,13 +3,11 @@ body{
     font-family: 'Poppins', sans-serif;
     color: #0a2ff1;
     margin: 0 0 0 20px;   
-    box-sizing: border-box;
 }
 section{
     width: 100vh;
     background-image: url(/Desarrollo_web_con_HTML/Desafio.3/imagenes/fondo.JPG);
     background-size: 60vh 160vh;
-    /* background-position: bottom; */
     background-repeat: no-repeat;
 }
 span{
